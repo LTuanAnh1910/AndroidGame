@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7285ca1a4fccd4409901969f3406aaf, type: 3}
+  m_Name: Explosion_Gun
+  m_EditorClassIdentifier: Assembly-CSharp::NewBehaviourScript/TurretSettings
+  TurretPrefabs: {fileID: 166627348024664083, guid: 8d240a064bc7c8846a6a894b9fc4abcb, type: 3}
+  TurretShopCost: 100
+  TurretShopSprite: {fileID: 1262532731, guid: c4ac7bae549d0e64690b7abcfebdad6f, type: 3}
